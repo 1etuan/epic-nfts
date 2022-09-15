@@ -1,4 +1,4 @@
-# Create a NFT
+# Create an NFT
 
 Try running some of the following tasks:
 
